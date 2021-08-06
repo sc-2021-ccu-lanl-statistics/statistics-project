@@ -1,5 +1,5 @@
 # statistics-project
-Scripts to recreate the 
+Scripts to recreate the statistics portions of the FTXS 2021 paper
 
 `LA-UR-21-23115`
 
